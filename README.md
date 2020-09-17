@@ -1,1 +1,1 @@
-# Blockchain
+# BonCoin Cryptocurrency
